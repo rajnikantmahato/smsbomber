@@ -1,4 +1,10 @@
 ## Welcome to Sms Bomber App
+If You Click On ADS
+Then Sending Extra fast Sms
+No beleive Try This method
+First click on side bar click ads
+Then Enter your victim no
+
 Please View This Youtube Video
 For example How it work
 
