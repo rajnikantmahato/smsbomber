@@ -7,7 +7,7 @@ This is A beta Server
 # Video link
 ** https://youtu.be/AH3aZ4O2Kwc **
 
-[Link](https://youtu.be/AH3aZ4O2Kwc)
+<iframe src="https://youtu.be/AH3aZ4O2Kwc" width="100px" height="150px" ></iframe>
 ```markdown
 Syntax highlighted code block
 
