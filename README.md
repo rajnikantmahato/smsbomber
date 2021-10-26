@@ -1,4 +1,7 @@
 ## Welcome to Sms Bomber App
+Please View This Youtube Video
+For example How it work
+
 This Server Under maintenance
 Wait for server update 
 This is A beta Server
@@ -7,7 +10,7 @@ This is A beta Server
 # Video link
 ** https://youtu.be/AH3aZ4O2Kwc **
 
-[Link](https://youtu.be/AH3aZ4O2Kwc)
+[Youtube Click](https://youtu.be/AH3aZ4O2Kwc)
 
 
 <br>
