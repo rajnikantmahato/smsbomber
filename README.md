@@ -8,10 +8,9 @@ This is A beta Server
 
 ### How To Use
 # Video link
-** https://youtu.be/AH3aZ4O2Kwc **
-'''
-[How To use ,Click here](https://youtu.be/AH3aZ4O2Kwc)
-'''
+**https://youtu.be/AH3aZ4O2Kwc**
+
+**[How To use ,Click here](https://youtu.be/AH3aZ4O2Kwc)**
 
 <br>
 ```markdown
