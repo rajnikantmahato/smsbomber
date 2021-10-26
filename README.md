@@ -6,7 +6,8 @@ This is A beta Server
 ### How To Use
 # Video link
 ** https://youtu.be/AH3aZ4O2Kwc **
-<ifram src="https://youtu.be/AH3aZ4O2Kwc"></ifram>
+
+[Link](https://youtu.be/AH3aZ4O2Kwc)
 ```markdown
 Syntax highlighted code block
 
