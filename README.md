@@ -7,7 +7,7 @@ This is A beta Server
 # Video link
 ** https://youtu.be/AH3aZ4O2Kwc **
 
-<iframe src="https://youtu.be/AH3aZ4O2Kwc" width="300px" height="200px" ></iframe>
+[Link](https://youtu.be/AH3aZ4O2Kwc)
 
 
 <br>
