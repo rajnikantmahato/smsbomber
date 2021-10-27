@@ -1,4 +1,9 @@
+### Warning ⚠️
+if your Use Vpn Then I will block your IMEI No
+You Can't Use my app On your Phone So use carefully
+
 ## Welcome to Sms Bomber App
+
 If You Click On ADS
 Then Sending Extra fast Sms
 No beleive Try This method
